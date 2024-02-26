@@ -7,7 +7,7 @@ This page has been created to embed schema.org and Bioschemas markup describing 
     "@context": "https://schema.org", 
     "@type": "Dataset",
     "@id": "https://doi.org/10.5281/zenodo.7338056",
-    "conformsTo": "https://bioschemas.org/profiles/Dataset/1.1-DRAFT", 
+    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/Dataset/1.1-DRAFT", 
     "identifier": "DOI:10.5281/zenodo.7338056",
     "citation": "Giraldo O, Solanki D, Rebholz-Schuhmann D, Castro LJ. Fleiss kappa for doc-2-doc relevance assessment. Zenodo; 2022. doi:10.5281/zenodo.7338056",
     "name": "Fleiss kappa for doc-2-doc relevance assessment",
